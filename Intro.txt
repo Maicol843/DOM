@@ -1,0 +1,18 @@
+METODOS DEL DOM DE JAVASCRIPT
+
+Introducción
+Este proyecto es sobre los métodos y propiedades DOM 
+de JavaScript más utilizados. Este curso te brindará una visión 
+general de cómo usar estos métodos y propiedades en proyectos reales. 
+Aprenderás sobre los siguientes métodos:
+- getElementById
+- getElementsByClassName
+- getElementsByTagName
+- querySelector
+- querySelectorAll
+- addEventListener
+- innerHTML
+- createElement
+- appendChild
+- classList.toggle(class)
+
