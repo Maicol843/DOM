@@ -1,0 +1,21 @@
+MODELO DE OBJETOS DEL DOCUMENTO
+________________________________________________________________________________________________
+
+El Document Object Model (DOM) es una representación jerárquica 
+de un documento HTML que permite a JavaScript interactuar con los 
+elementos de una página web y manipularlos. 
+- El DOM representa un documento HTML como un árbol de objetos; 
+- cada elemento del código HTML corresponde a un nodo en dicho árbol, 
+  siendo el propio documento el nodo raíz. 
+- Existen diversos métodos del DOM que permiten acceder a estos nodos y a su contenido, 
+  así como crearlos o modificarlos, lo que posibilita realizar cambios dinámicos en la página web. 
+Por ejemplo, este código:
+<html>
+    <head>
+        <title>My title</title>
+    </head>
+    <body>
+        <h1>A heading</h1>
+        <a href="#">Link text</a>
+    </body>
+</html>
